@@ -1,0 +1,5 @@
+{
+  "name": "Harsha-AGI v9.0 Dashboard",
+  "description": "A neuro-symbolic AGI simulation with 30 cognitive layers, featuring tool use, symbolic reasoning, and memory decay.",
+  "requestFramePermissions": []
+}
